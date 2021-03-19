@@ -2,6 +2,6 @@
 Manage operations of hotel
 
 Class diagram
-https://ibb.co/4mznDqr
+https://ibb.co/nLPzV6v
 Entity diagram
 https://ibb.co/N3NVcHd
